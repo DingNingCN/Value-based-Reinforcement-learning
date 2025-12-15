@@ -2,4 +2,4 @@
 
 2. solved a maze problem with additional constraints using Q-learning and SARSA
 
-3. xploraing
+3. xploring SARSA with fourier basis
